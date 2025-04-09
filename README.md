@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[![RyankTheDS’s github stats](https://github-readme-stats.vercel.app/api?username=RyankTheDS)](https://github.com/RyankTheDS)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyankTheDS&layout=compact)](https://github.com/RyankTheDS)
+
+
 <!--
 **RyankTheDS/RyankTheDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
